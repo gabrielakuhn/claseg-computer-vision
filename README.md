@@ -9,7 +9,7 @@ nerves or contaminations as false micrometastases. In this study, we investigate
 of a two-layer neural network model. The first network is responsible for classifying metastases in an
 image, and the second is responsible for performing the segmentation of tumor cells, analyzing the size
 of the metastatic region, and generating the final result for micrometastasis, metastasis, or negative
-metastasis. This article is the first investigation of the proposed method. As partial results, we achieved
+metastasis. This repository is the first investigation of the proposed method. As partial results, we achieved
 an AUC = 0.998 for the classification task at the patch level and 𝐼𝑜𝑈 − 𝑆𝑐𝑜𝑟𝑒 ∶ 0.5434 e 𝐹 1 − 𝑆𝑐𝑜𝑟𝑒 ∶ 0.64818 for
 the segmentation task.
 
