@@ -1,4 +1,4 @@
-# Deep learning for histopathological assistance: a classification-segmentation model to detect micrometastases in breast cancer
+### Deep learning for histopathological assistance: a classification-segmentation model to detect micrometastases in breast cancer
 
 Deep Learning algorithms for detecting micrometastasis in breast cancer have the potential of gener-
 ating good results when used complementarily to improve the efficiency of pathologists’ routines. An
@@ -12,5 +12,7 @@ of the metastatic region, and generating the final result for micrometastasis, m
 metastasis. This repository is the first investigation of the proposed method. As partial results, we achieved
 an AUC = 0.998 for the classification task at the patch level and 𝐼𝑜𝑈 − 𝑆𝑐𝑜𝑟𝑒 ∶ 0.5434 e 𝐹 1 − 𝑆𝑐𝑜𝑟𝑒 ∶ 0.64818 for
 the segmentation task.
+
+The final result still (slide level) need to be improved.
 
 [pipilene.pdf](https://github.com/gabrielakuhn/claseg/files/11781803/pipilene.pdf)
