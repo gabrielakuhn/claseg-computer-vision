@@ -15,4 +15,7 @@ the segmentation task.
 
 The final result still (slide level) need to be improved.
 
-[pipilene.pdf](https://github.com/gabrielakuhn/claseg/files/11781803/pipilene.pdf)
+##### Links:
+- [Pipilene](https://github.com/gabrielakuhn/claseg/files/11781803/pipilene.pdf)
+- [Dissertação](http://www.repositorio.jesuita.org.br/handle/UNISINOS/12439)
+- [Artigo SBCAS 2023](https://sol.sbc.org.br/index.php/sbcas/article/view/25307)
