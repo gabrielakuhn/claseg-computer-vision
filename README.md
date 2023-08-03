@@ -13,7 +13,7 @@ metastasis. This repository is the first investigation of the proposed method. A
 an AUC = 0.998 for the classification task at the patch level and 𝐼𝑜𝑈 − 𝑆𝑐𝑜𝑟𝑒 ∶ 0.5434 e 𝐹 1 − 𝑆𝑐𝑜𝑟𝑒 ∶ 0.64818 for
 the segmentation task.
 
-The final result still (slide level) need to be improved.
+The final result (slide level) still needs to be improved.
 
 ##### Links:
 - [Pipilene](https://github.com/gabrielakuhn/claseg/files/11781803/pipilene.pdf)
